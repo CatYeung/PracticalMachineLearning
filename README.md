@@ -106,7 +106,7 @@ predictionfinal
  B  A  B  A  A  E  D  B  A  A  B  C  B  A  E  E  A  B  B  B 
 Levels: A B C D E
 
-#Write those results to text files 
+# Write those results to text files 
 pml_write_files = function(x){
   n=length(x)
   for(i in 1:n){
